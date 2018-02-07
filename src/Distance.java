@@ -15,13 +15,10 @@ public static void main(String[] args) {
 
     panel.add(new JLabel("x1: "));
     panel.add(x1Var);
-    //panel.add(Box.createHorizontalStrut(15));
     panel.add(new JLabel("y1: "));
     panel.add(y1Var);
-    //panel.add(Box.createVerticalStrut(15));
     panel.add(new JLabel("x2: "));
     panel.add(x2Var);
-    //panel.add(Box.createHorizontalStrut(15));
     panel.add(new JLabel("y2: "));
     panel.add(y2Var);
 
